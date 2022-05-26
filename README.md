@@ -1,8 +1,8 @@
 # ParkinsonAI
-![LalopathyAI Banner](https://i.hizliresim.com/ish2ys4.png)
+![LalopathyAI Banner](https://i.hizliresim.com/pn5jhwd.png)
 **My WWDC20 Swift Student Challenge Submission(Accepted)**
 
-![Accepted Mail]([https://i.hizliresim.com/INEYek.jpg](https://i.hizliresim.com/hgm7j4n.png))
+![Accepted Mail](https://i.hizliresim.com/hgm7j4n.png)
 
 # What's ParkinsonAI?
 
